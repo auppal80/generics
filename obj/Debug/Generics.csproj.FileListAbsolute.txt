@@ -1,0 +1,12 @@
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.pdb
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.Generics.resources
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.Cache
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.exe
+c:\users\2096654\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\2096654\Documents\GitHub\GenericsExample\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\2096654\Documents\GitHub\GenericsExample\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\2096654\Documents\GitHub\GenericsExample\Generics\Generics\obj\Debug\Generics.pdb
